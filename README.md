@@ -11,8 +11,11 @@ Relax and keep the eyes on the time while listening to a 24/7 lo-fi radio.
 # TECHNOLOGIES
 
 The page content was made with HTML.
+
 The style of the page was made with CSS.
+
 The clock and the date was made with Javascript.
+
 The background music was made with a Youtube API.
 
 # The logic behind the Javascript
@@ -36,8 +39,11 @@ Relaxe e não perca a hora enquanto escuta a uma rádio lo-fi ativa 24/7.
 # TECNOLOGIAS
 
 O conteúdo da página foi feito com HTML.
+
 O estilo da página foi feito com CSS.
+
 O relógio e a data foi feito com Javascript.
+
 A música de fundo foi feita usando uma API do Youtube.
 
 # A lógica por trás do Javascript
