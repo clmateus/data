@@ -40,7 +40,7 @@ Relax and keep the eyes on the time while listening to a 24/7 lo-fi radio.
 
 The page content was made with HTML.
 
-The style of the page was made with CSS.
+The style of the page was made with CSS (without using flexbox or grid).
 
 The clock and the date was made with Javascript.
 
