@@ -12,7 +12,7 @@ Relaxe e não perca a hora enquanto escuta a uma rádio lo-fi ativa 24/7.
 
 O conteúdo da página foi feito com HTML.
 
-O estilo da página foi feito com CSS.
+O estilo da página foi feito com CSS (sem o uso de flexbox ou grid).
 
 O relógio e a data foi feito com Javascript.
 
